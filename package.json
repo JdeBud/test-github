@@ -1,0 +1,19 @@
+{
+  "name": "test-github",
+  "version": "1.0.0",
+  "description": "Testing Express",
+  "repository": {
+    "type": "git",
+    "url": "git@github-private:JdeBud/test-github.git"
+  },
+  "license": "ISC",
+  "author": "Jonas Budde",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^10.12.0",
+    "typescript-eslint": "^8.71.2"
+  }
+}
